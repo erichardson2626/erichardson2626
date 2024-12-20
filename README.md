@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @erichardson2626 (Evan Richardson). I'm 30 years old with Bachelors Degree in Chemistry.
-- 👀 I’m interested in Math, Python, Swift, and Computer Security.
-- 🌙 I became interested in computer science when I turned 29. My first project was to use XCode to build an iPhone app for my laboratory.
-- 📲 The Lab App is my only complete project, and can be found here [Phase Separation Science App](https://apps.apple.com/us/app/pssi/id6499057790)
-- 🌱 Once I finished and released the app, I decided to pursue a burp suite certification. This is my current task as of today.
-- 🎸 I casually play Bass Guitar.
-- 🧩 I play a lot of online chess.
+- 👋 Hi, I’m @erichardson2626 (Evan Richardson). I'm 30 years old with a background in Chemistry.
+- 📲 The Phase Separation Science App is my only complete project, and can be found here [Phase Separation Science App](https://apps.apple.com/us/app/pssi/id6499057790)
+- 🌱 Pursuing a Burp Suite certification.
 - 📫 You can reach me at erichardson262673@gmail.com
 
 <!---
